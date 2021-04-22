@@ -8,3 +8,14 @@ https://www.kaggle.com/crawford/emnist
 It has train and test data for 47 classes. The balanced split has a more uniform distribution of the classes (~2400 images for each class)
 
 To run the notebook, you need to download the dataset from this link and move it to a folder named "data".
+
+The following packages are required:
+* keras
+* tensorflow
+* pandas
+* numpy
+* matplotlib
+* seaborn
+* random
+* sklearn
+* os
